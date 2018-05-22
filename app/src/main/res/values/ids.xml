@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvName" type="id" />
+    <item name="tvPosition" type="id" />
+    <item name="tvSalary" type="id" />
+</resources>
